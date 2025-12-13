@@ -1,0 +1,5 @@
+{
+  "name": "SentinelFuzz Pro",
+  "description": "A comprehensive, modular web application security fuzzer and reconnaissance platform designed for the NCIIPC. Features real-time scanning simulation, AI-driven vulnerability reporting, and attack surface mapping.",
+  "requestFramePermissions": []
+}
