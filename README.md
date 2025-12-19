@@ -1,10 +1,6 @@
-
 # SentinelFuzz Pro | NCIIPC Security Suite
-
 SentinelFuzz Pro is a next-generation, web-based vulnerability scanner and security assessment platform designed for the NCIIPC. It simulates advanced reconnaissance and fuzzing operations while leveraging Google's Gemini models to generate real-time remediation intelligence and interactive assistance.
-
 ## 🚀 Key Features
-
 *   **Live Attack Simulation**: Visualizes the complete lifecycle of a security scan, from Reconnaissance to Fuzzing and Reporting.
 *   **AI-Driven Remediation**: Automatically generates detailed remediation reports for detected vulnerabilities using **Gemini 2.5 Flash**. Includes a robust **Offline Mode** with high-fidelity templates when AI services are unavailable.
 *   **SentinelBot Assistant**: An integrated AI chatbot powered by **Gemini 3 Pro Preview** that allows operators to ask questions about vulnerabilities, exploits, and security concepts in real-time.
